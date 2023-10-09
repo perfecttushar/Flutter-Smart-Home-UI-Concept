@@ -1,4 +1,3 @@
-
 # Smart Home UI
 ## Project Overview:
 
